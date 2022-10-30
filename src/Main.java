@@ -93,7 +93,7 @@ public class Main {
         double kristinaDifference = kristinaAnnualIncomeNew - kristinaAnnualIncomeOld;
         System.out.println("Маша теперь получает " + mariya3years + " рублей. Годовой доход вырос на " + mariyaDifference + " рублей");
         System.out.println("Денис теперь получает " + denis3years + " рублей. Годовой доход вырос на " + denisDifference + " рублей");
-        System.out.println("Кристина теперь получает " + kristina3years + " рублей. Годовой доход вырос на " + kristinaDifference + " рублей");
+        System.out.println("Кристина теперь получает " + kristina3years + " рублей. Годовой доход вырос на " + kristinaDifference + " рублей!");
 
 
 
